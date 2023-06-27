@@ -13,6 +13,7 @@
 ## Used Technology
 
 ### - Figma: the draws, objects and labels, of the game are make using this program. 
+    -> https://www.figma.com/file/XwwAynMnrSDp8KkktVmblr/Physicalist?type=design&node-id=0-1&mode=design&t=YCMELQMTduKQ1mnJ-0
 ### - Spritekit: its framework is the base of the game creation.
 ### - iPad (It's run better in Mini): this game are make to iPad devices. 
 
